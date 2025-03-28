@@ -9,6 +9,8 @@ Checking the current set of communication encryption algorithms in use (Data in 
 
 ### Description
 
+---
+
 This project was initiated by receiving a Security Directive from the office of CISO to ensure that all encryption algo's being used in the organisation are secure and have a key-length of at least 256 bits. The directive was focused on addressing three specific security areas of concern for the business:y
 1. Checking the current set of communication encryption algorithms in use (Data in Transit)
 2. Checking the encryption status of disk volumes (Data at Rest)
@@ -17,7 +19,6 @@ This project was initiated by receiving a Security Directive from the office of 
 No scope of work/assessment of current state of the business was received from CISO to point towards specific areas to go remediate, only a blanket statement to review all encryption algo's in use, therefore I separated the project into two phases being:
 - Current State Assessement
 - Remediation
-
 
 ---
 
@@ -53,7 +54,6 @@ A custom report was created to:
 This report was published to the same website as used previously for the comms protocol info. The entire process to collect, collate and publish this comms, diskand certificate encryption information was automated and implemented as a live data report for use by the organisations Information Security Manager as well as the Regional Information Security Officer going forward.
 
 This concluded the assessment/investigation phase.
-
 
 ---
 
