@@ -1,4 +1,6 @@
+---
 
+<img src="./aged_algos.png" width=450 height=300>
 
 ---
 
