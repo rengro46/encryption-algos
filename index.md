@@ -1,6 +1,6 @@
 ---
 
-<img src="./aged_algos.png" width=450 height=300>
+<img src="./algos.png" width=450 height=300>
 
 ---
 
